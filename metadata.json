@@ -1,0 +1,6 @@
+{
+  "name": "Open Tertiary Science Library",
+  "description": "Unified open-access gateway for free university textbooks and peer-reviewed research papers across Medicine, Surgery, Pharmacy, Biotech, Engineering, Computer Science, and Physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
